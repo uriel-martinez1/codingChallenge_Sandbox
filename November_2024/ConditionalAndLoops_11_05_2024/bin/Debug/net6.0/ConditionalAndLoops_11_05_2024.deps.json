@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConditionalAndLoops_11_05_2024/1.0.0": {
+        "runtime": {
+          "ConditionalAndLoops_11_05_2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConditionalAndLoops_11_05_2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
